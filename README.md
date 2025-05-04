@@ -1,65 +1,89 @@
-# 📦 SJP2 Academy
+# **SJP2 Academy**  
+**Client Project for Epic Inspired**  
+**Version:** V1 – May 3, 2025  
+**Category:** Epic Inspired – Educational Institution Website  
 
-## 🧭 Overview
-- Short Summary of the app and what problem it solves. 
-- Include a screnshot of GIF here is possible.
-![Screenshot](./assets/screenshot.png) <!-- Replace with your image path -->
+---
 
-## 💡 Idea & Concept
-- What inspired this? 
-- Who is it for? 
+## 🧭 Overview  
+**SJP2 Academy** is a WordPress-based educational website built for a Christian school. The site serves as the main communication and resource hub for prospective students, current families, and staff. It reflects the school’s values of faith, education, and community through a clean and professional design.
 
-## ✨ Features & Functionality
-- Bullet list of main features 
+---
 
-## ⚙️ Tech Stack
-- Language(s), framework, libraries, services, tools, deployment platform. 
+## 💡 Idea & Concept  
+The website was created to provide clear, up-to-date information for families and to showcase the school's values, curriculum, admissions process, and staff. The platform needed to be easy to manage by school staff while also offering flexibility to accommodate seasonal updates and announcements.
 
-## 🏗 Architecture & Design
-- Describe how its structured (e.g., MVC, Monolith, Microservices)
-- Include diagrams if applicable 
+---
 
-## 🚀 Installation & Setup
-- **Prerequisites:** 
+## ✨ Features & Functionality  
+- WordPress CMS with Elementor for flexible design  
+- Application & enrollment forms  
+- Contact and inquiry forms  
+- Academic program descriptions  
+- School calendar and news updates  
+- Staff directory  
+- Downloadable documents (policies, schedules, applications)  
+- Secure contact options for administration  
+- Mobile-friendly and optimized for accessibility  
 
-- **Installation Steps:** 
+---
 
-- **Deployment Environment:** 
+## ⚙️ Tech Stack  
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)  
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- **Access:** 
+---
 
-> **Note:** 
+## 🏗 Architecture & Design  
+- Clean, structured design with large headers and legible typography  
+- Color palette and layout reflecting the school's branding  
+- Elementor page builder used to quickly build and update new pages  
+- Organized backend interface for school staff to manage content  
 
-## 🧑‍💻 Usage
-- How to use the software after setup 
-- CLI Commands, UI Walkthrough, or API Endpoints. 
+---
 
-## 🔍 My Role & Contributions
-- 💼 Full-stack development
-- 🧱 Architecture design
-- 🐞 Bug fixing and optimization
-- 🤝 Collaboration with design/product teams
+## 🚀 Installation & Setup  
+- Hosted on Epic Inspired-managed WordPress environment  
+- Domain, DNS, and SSL configuration included  
+- Installed and configured plugins for security, forms, SEO, and caching  
+- Setup regular backups and uptime monitoring  
 
-## 🧗 Challenges & Learnings
-- Major issues you faced and how you overcome them.
-- What you learned from the process.
+---
 
-## 📈 Future Enhancements
-- Features you plan to build. 
-- Known bugs or technical debt. 
+## 🧑‍💻 My Role & Contributions  
+- 🔧 Responsible for all website updates and customizations  
+- 🎨 Maintained design consistency across pages  
+- 📄 Updated academic documents and enrollment forms  
+- 🤝 Worked with school representatives to improve structure and flow  
+- 🔐 Managed security patches and server maintenance  
 
-## 🤝 Contributing
-- How other can contribute (if open source)
+---
 
-## 🪪 License
-⚠️ License Notice  
-This repository was originally published under the MIT License.  
-As of April 22, 2025, the license has been changed to **CC BY-NC-ND 4.0**.  
-See the LICENSE file for details.
+## 🧗 Challenges & Learnings  
+- Creating a structure that supported frequent updates from non-technical staff  
+- Simplifying document and form management  
+- Ensuring security and uptime during peak enrollment seasons  
 
-## 🔗 Additional Resources
-- **Documentation:** 
+---
 
-- **Related Projects:** 
+## 📈 Future Enhancements  
+- Add event registration system  
+- Integrate school-wide announcement notifications  
+- Include student or parent portals for secure logins  
 
-- **Live Demo Link:** 
+---
+
+## 🤝 Contributing  
+This is a private educational website. External contributions are not accepted.
+
+---
+
+## 🪪 License  
+Website © SJP2 Academy / Epic Inspired. All rights reserved.
+
+---
+
+## 🔗 Additional Resources  
+- [Epic Inspired GitHub Dashboard](../GitHubDashboard.md)
